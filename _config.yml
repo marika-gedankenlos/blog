@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: "My Site"
+title: "Projekt Gedankenlos"
 description: "This is a description of my awesome site."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
-locale: en
+locale: de
 url:
 feed:
   path: atom.xml
@@ -26,7 +26,7 @@ gems:
 
 # Site owner
 owner:
-  name:
+  name: Marika
   email:
   twitter:
   google:
