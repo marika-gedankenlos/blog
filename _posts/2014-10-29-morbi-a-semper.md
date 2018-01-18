@@ -1,8 +1,7 @@
 ---
-layout: video
+layout: post
 title:  "Morbi a Semper"
 date:   2014-08-31 14:36:23
-videoid:"ShDjCc1N1fA"
 ---
 <span class="image featured"></span>
 <object style="width:100%; height: 500px; float: none; clear: both; margin: 2px auto;" data="https://www.youtube-nocookie.com/embed/ShDjCc1N1fA">
