@@ -5,7 +5,8 @@ date:   2014-08-31 14:36:23
 videoid:"ShDjCc1N1fA"
 ---
 <span class="image featured">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ShDjCc1N1fA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<object style="width:100%;height:100%;width: 820px; height: 461.25px; float: none; clear: both; margin: 2px auto;" data="https://www.youtube-nocookie.com/embed/ShDjCc1N1fA">
+</object>
 </span>
 Morbi a semper justo, non eleifend elit. Sed nulla nulla, porttitor nec volutpat eu, pulvinar vitae augue. Curabitur tempor quis lorem eget vestibulum. Aenean vel lacinia orci, ac sollicitudin felis. Nunc eros libero, posuere nec massa ac, consectetur sollicitudin elit. Duis tincidunt nunc et neque egestas rhoncus. Curabitur ut euismod lorem, ut rutrum neque. Nullam at sem eros. Nam interdum lectus non cursus viverra.
 
