@@ -11,20 +11,20 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: arkadianriver
+title: "Projekt Gedankenlos"
 description: Flowing creativity &#x2192; Cascading bliss
 owner:
-  name: Gary Faircloth # or company name
-  email: gfair@arkadianriver.com
-  url: http://arkadianriver.com
-first_published: 1996 # if migrating another site, the year of your first publish
+  name: Marika # or company name
+  email: marika@marika
+  url: "https://marika-gedankenlos.github.io/"
+first_published: 2017 # if migrating another site, the year of your first publish
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://arkadianriver.com" # the base hostname & protocol for your site
+url: "https://marika-gedankenlos.github.io" # the base hostname & protocol for your site
 
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Welcome!  
+  title: Welcome!
   text: I hope you enjoy my collection
 # - title for your blog's featured posts
 features-title: Featured topics
@@ -39,7 +39,7 @@ social:
   linkedin-square: https://linkedin.com/in/garyfaircloth
   facebook-official: https://facebook.com/gary.faircloth
   google-plus-square: https://plus.google.com/u/0/+GaryFaircloth
-  email: /contact/
+  #email: /contact/
   #flickr:
   #instagram:
   #youtube-square:
