@@ -10,6 +10,15 @@ tags:
 ---
 <span class="image featured"></span>
 <iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/EqpZGz4pJkA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-Morbi a semper justo, non eleifend elit. Sed nulla nulla, porttitor nec volutpat eu, pulvinar vitae augue. Curabitur tempor quis lorem eget vestibulum. Aenean vel lacinia orci, ac sollicitudin felis. Nunc eros libero, posuere nec massa ac, consectetur sollicitudin elit. Duis tincidunt nunc et neque egestas rhoncus. Curabitur ut euismod lorem, ut rutrum neque. Nullam at sem eros. Nam interdum lectus non cursus viverra.
+Alles begann mit diesem Video und der Frage: "Muss Kunst perfekt sein?"
 
-Duis eget magna at arcu tincidunt ultricies. Curabitur in facilisis sem, nec bibendum eros. Nunc fringilla imperdiet diam sed viverra. Vivamus lobortis dignissim mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet eu diam eu pellentesque. Duis tempus metus urna, vel faucibus ligula pharetra euismod. Donec rhoncus blandit posuere. Mauris mattis dolor est, dictum venenatis augue facilisis sit amet. Ut ante odio, congue eget arcu nec, semper eleifend urna. Donec rutrum pretium odio non pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam pellentesque nulla at tincidunt ultrices. Donec finibus malesuada magna. Phasellus eget tortor in lectus vehicula viverra sit amet sit amet purus.
+Ich hatte mich hinter meinen Zweifeln versteckt. 
+Ich hatte meinen Ängsten gehorcht, die mir sagten: "Andere könnten das, was du machst nicht gut (genug) finden." 
+Ich hatte mir eingeredet: "Andere können das besser, wieso solltest du deine Kunst zeigen?"
+Ich hatte vergessen.
+
+Vergessen, was KUNST bedeutet: sich gegenseitig inspirieren, sich trauen zur Imperfektion, Persönlichkeit ausleben, bunt sein - oder grau, lachen, weinen, Gefühle, Durcheinander, Ordnung,... Kunst kennt keine Regeln. 
+
+Deswegen will ich mir auch keine Regeln setzen in meiner Kunst: keine Zweifel, keine Ängste, keine negativen Gedanken.
+Ich will mich erinnern und die Kunst neu entdecken. 
+Und ich möchte jeden dazu inspirieren, es auch so zu machen. Denn wenn auch DU dich traust, wird die Welt ein bisschen bunter. 
