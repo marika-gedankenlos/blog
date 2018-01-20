@@ -1,7 +1,7 @@
 ---
 priority: 0.6
 title: "Dusk Till Dawn - Zayn ft. Sia | Cover by Marika"
-excerpt: Eine Videoarbeit
+excerpt: Woche 4
 categories: works
 background-image: works-sample.png
 tags:
@@ -12,6 +12,10 @@ tags:
 ---
 <span class="image featured"></span>
 <iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/7NP71F8xEzk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-Morbi a semper justo, non eleifend elit. Sed nulla nulla, porttitor nec volutpat eu, pulvinar vitae augue. Curabitur tempor quis lorem eget vestibulum. Aenean vel lacinia orci, ac sollicitudin felis. Nunc eros libero, posuere nec massa ac, consectetur sollicitudin elit. Duis tincidunt nunc et neque egestas rhoncus. Curabitur ut euismod lorem, ut rutrum neque. Nullam at sem eros. Nam interdum lectus non cursus viverra.
+WOCHE 4
 
-Duis eget magna at arcu tincidunt ultricies. Curabitur in facilisis sem, nec bibendum eros. Nunc fringilla imperdiet diam sed viverra. Vivamus lobortis dignissim mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet eu diam eu pellentesque. Duis tempus metus urna, vel faucibus ligula pharetra euismod. Donec rhoncus blandit posuere. Mauris mattis dolor est, dictum venenatis augue facilisis sit amet. Ut ante odio, congue eget arcu nec, semper eleifend urna. Donec rutrum pretium odio non pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam pellentesque nulla at tincidunt ultrices. Donec finibus malesuada magna. Phasellus eget tortor in lectus vehicula viverra sit amet sit amet purus.
+Mein Cover zu "Dusk till dawn"
+Wie schon letzte Woche angekündigt, habe ich mein Geburtstagsgeschenk genutzt: mein Mikrophon! Ich habe mich riesig darüber gefreut und konnte es seit dem nicht abwarten gesund zu werden! Ich hoffe, das Cover gefällt euch. Ich singe einfach sehr gerne und mag es, aus den Liedern meine eigene Version zu machen. Natürlich sitzt nicht jeder Ton und meine Stimme versagt hier und da, aber wie ich schon im ersten Video gesagt habe: Mut zur Imperfektion. :)
+
+Sagt mir gerne eure Meinung dazu und liket oder teilt das Video, wenn es euch gefällt!
+Bis nächste Woche!
