@@ -1,7 +1,14 @@
 ---
-layout: post
-title:  "Dusk Till Dawn - Zayn ft. Sia | Cover by Marika"
-date:   2017-10-27 00:00:00
+priority: 0.6
+title: "Dusk Till Dawn - Zayn ft. Sia | Cover by Marika"
+excerpt: Eine Videoarbeit
+categories: works
+background-image: works-sample.png
+tags:
+  - YouTube
+  - Kunst
+  - Männer
+#date:   2017-10-27 00:00:00
 ---
 <span class="image featured"></span>
 <iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/7NP71F8xEzk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
