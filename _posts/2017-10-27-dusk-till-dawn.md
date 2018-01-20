@@ -7,7 +7,8 @@ background-image: works-sample.png
 tags:
   - YouTube
   - Kunst
-  - Männer
+  - Cover
+  - Music
 #date:   2017-10-27 00:00:00
 ---
 <span class="image featured"></span>

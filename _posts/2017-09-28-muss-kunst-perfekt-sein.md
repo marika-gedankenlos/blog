@@ -7,7 +7,6 @@ background-image: works-sample.png
 tags:
   - YouTube
   - Kunst
-  - Männer
 #date:   2017-09-28 00:00:00
 ---
 <span class="image featured"></span>
