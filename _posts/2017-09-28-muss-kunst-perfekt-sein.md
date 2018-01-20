@@ -7,7 +7,6 @@ background-image: works-sample.png
 tags:
   - YouTube
   - Kunst
-#date:   2017-09-28 00:00:00
 ---
 <span class="image featured"></span>
 <iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/EqpZGz4pJkA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

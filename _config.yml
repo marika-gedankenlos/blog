@@ -1,18 +1,6 @@
-# Welcome to Jekyll!
-
-
-# In addition to these settings, there is a file _data/tokens-template.yml
-# that you'll want to customize for your site. It's named 'tokens' because
-# that was it's original purpose, but because tokens.yml is .gitexcluded, it's
-# a good place to store your site-specific data that you'd rather not have
-# forked or cloned. Of course, that means you'd want to back it up elsewhere.
-
-# Also, for your post bylines, add author info for yourself in `_data/authors.yml`.
-# (Using that method instead of site.owner, in case your posts get cloned with your repo.)
-
 # Site settings
 title: "Projekt Gedankenlos"
-description: Flowing creativity &#x2192; Cascading bliss
+description: "Muss Kunst wirklich perfekt sein?"
 owner:
   name: Marika # or company name
   email: marika@marika
@@ -24,21 +12,21 @@ url: "https://marika-gedankenlos.github.io" # the base hostname & protocol for y
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Welcome!
+  title: Willkommen!
   text: I hope you enjoy my collection
 # - title for your blog's featured posts
-features-title: Featured topics
+features-title: "Neue Posts"
 # - displayed at the bottom
-closing-head: Thanks for visiting
+closing-head: "Danke für deinen Besuch!"
 closing-para: Feel free to get in touch. Cheers!
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
   twitter: https://twitter.com/arkadianriver
   github: https://github.com/arkadianriver
-  linkedin-square: https://linkedin.com/in/garyfaircloth
-  facebook-official: https://facebook.com/gary.faircloth
-  google-plus-square: https://plus.google.com/u/0/+GaryFaircloth
+  #linkedin-square: https://linkedin.com/in/garyfaircloth
+  facebook-official: https://www.facebook.com/marika.gedankenlos/
+  #google-plus-square: https://plus.google.com/u/0/+GaryFaircloth
   #email: /contact/
   #flickr:
   #instagram:
