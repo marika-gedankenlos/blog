@@ -1,7 +1,7 @@
 ---
 priority: 0.6
 title: "Muss Kunst perfekt sein? - Projekt Gedankenlos"
-excerpt: Der Start
+excerpt: Start
 categories: works
 background-image: works-sample.png
 tags:
