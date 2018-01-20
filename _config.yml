@@ -1,6 +1,6 @@
 # Site settings
 title: "Projekt Gedankenlos"
-description: "Muss Kunst wirklich perfekt sein?"
+description: "Muss Kunst perfekt sein?"
 owner:
   name: Marika # or company name
   email: marika@marika
@@ -22,15 +22,12 @@ closing-para: Feel free to get in touch. Cheers!
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  twitter: https://twitter.com/arkadianriver
-  github: https://github.com/arkadianriver
-  #linkedin-square: https://linkedin.com/in/garyfaircloth
+  twitter: https://twitter.com/Rialein97
   facebook-official: https://www.facebook.com/marika.gedankenlos/
-  #google-plus-square: https://plus.google.com/u/0/+GaryFaircloth
   #email: /contact/
   #flickr:
-  #instagram:
-  #youtube-square:
+  instagram: https://www.instagram.com/_.mari.ka._/
+  youtube-square: https://www.youtube.com/channel/UCs0mxHjHOu74cFl3Vb8yFyg
   #spotify:
   #stack-overflow:
   #vimeo:
