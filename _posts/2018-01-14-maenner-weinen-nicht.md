@@ -1,7 +1,7 @@
 ---
 priority: 0.6
 title: "Männer weinen nicht"
-excerpt: Eine Videoarbeit
+excerpt: Woche 9
 categories: works
 background-image: works-sample.png
 tags:
@@ -11,6 +11,15 @@ tags:
 ---
 <span class="image featured"></span>
 <iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/ShDjCc1N1fA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-Morbi a semper justo, non eleifend elit. Sed nulla nulla, porttitor nec volutpat eu, pulvinar vitae augue. Curabitur tempor quis lorem eget vestibulum. Aenean vel lacinia orci, ac sollicitudin felis. Nunc eros libero, posuere nec massa ac, consectetur sollicitudin elit. Duis tincidunt nunc et neque egestas rhoncus. Curabitur ut euismod lorem, ut rutrum neque. Nullam at sem eros. Nam interdum lectus non cursus viverra.
+WOCHE 9
 
-Duis eget magna at arcu tincidunt ultricies. Curabitur in facilisis sem, nec bibendum eros. Nunc fringilla imperdiet diam sed viverra. Vivamus lobortis dignissim mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet eu diam eu pellentesque. Duis tempus metus urna, vel faucibus ligula pharetra euismod. Donec rhoncus blandit posuere. Mauris mattis dolor est, dictum venenatis augue facilisis sit amet. Ut ante odio, congue eget arcu nec, semper eleifend urna. Donec rutrum pretium odio non pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam pellentesque nulla at tincidunt ultrices. Donec finibus malesuada magna. Phasellus eget tortor in lectus vehicula viverra sit amet sit amet purus.
+Männer weinen nicht
+Diese Woche möchte ich mit diesem Video ein etwas ernsteres Thema ansprechen.
+Der Originalsong ist von dem Sänger Adesse und hat mich total berührt, als ich ihn das erste mal gehört habe. Er handelt von Sexismus, insbesondere vom Bild des Mannes in der heutigen Gesellschaft.
+Adesse singt: "Männer weinen nicht" - Männer dürfen keine Schwäche zeigen, müssen immer stark sein. In der Werbung wird uns das oft so suggeriert: gezeigt werden Männer mit Muskeln, Bart, kantigen Gesichtszügen,... Und genau solche Ergebnisse zeigt auch Google, wenn ich ganz banal nach dem Begriff "Mann" google.
+Ich finde das so schwachsinnig und unfair, denn Gefühle sind mensch(/-änn)lich.
+Und so banal und platt dieser Satz auch für manchen klingen mag - für mich lässt sich das auf vieles übertragen. Niemand sollte sich schlecht fühlen oder verstecken, weil er/sie nicht in gesellschaftliche Idealbilder passt, sich anders verhält oder anders fühlt. Jeder Mensch ist indiviuell und einzigartig.
+
+Sagt mir gerne eure Meinung zu dem Thema, ich bin gespannt, was ihr davon haltet.
+
+Link zum Originalvideo von Adesse: https://www.youtube.com/watch?v=9StNQN6XUyU
