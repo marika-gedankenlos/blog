@@ -1,7 +1,7 @@
 ---
 priority: 0.6
 title: "- Alle deine Farben - | Poetry"
-excerpt: Eine Videoarbeit
+excerpt: Woche 2
 categories: works
 background-image: works-sample.png
 tags:
@@ -11,6 +11,12 @@ tags:
 ---
 <span class="image featured"></span>
 <iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/Zf10KaGEv7w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-Morbi a semper justo, non eleifend elit. Sed nulla nulla, porttitor nec volutpat eu, pulvinar vitae augue. Curabitur tempor quis lorem eget vestibulum. Aenean vel lacinia orci, ac sollicitudin felis. Nunc eros libero, posuere nec massa ac, consectetur sollicitudin elit. Duis tincidunt nunc et neque egestas rhoncus. Curabitur ut euismod lorem, ut rutrum neque. Nullam at sem eros. Nam interdum lectus non cursus viverra.
+WOCHE 2
 
-Duis eget magna at arcu tincidunt ultricies. Curabitur in facilisis sem, nec bibendum eros. Nunc fringilla imperdiet diam sed viverra. Vivamus lobortis dignissim mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet eu diam eu pellentesque. Duis tempus metus urna, vel faucibus ligula pharetra euismod. Donec rhoncus blandit posuere. Mauris mattis dolor est, dictum venenatis augue facilisis sit amet. Ut ante odio, congue eget arcu nec, semper eleifend urna. Donec rutrum pretium odio non pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam pellentesque nulla at tincidunt ultrices. Donec finibus malesuada magna. Phasellus eget tortor in lectus vehicula viverra sit amet sit amet purus.
+🍁 - Alle deine Farben - 🍁
+Es ist soweit: der Herbst ist da.
+Jedes Jahr aufs Neue bin ich überrascht, wie schnell der Sommer vorbei ist. Am Anfang will ich das alles gar nicht - ich mag den Sommer nämlich. Und wenn es dann noch anfängt zu stürmen und regnen, wie letzte Woche vor allem in Norddeutschland, dann sieht man gar nichts Gutes in dem Zeiten-Wechsel.
+Alles wirkt kalt, dunkel, ungemütlich ... der Winter kommt näher.
+Aber schaut man mal genauer hin, lässt sich darauf ein und nimmt sich Zeit, entdeckt man die schönen Seiten des Herbstes und realisiert, wie vielfältig diese Jahreszeit doch ist.
+
+Mich hat der Herbst dieses Jahr inspiriert, diesen Text für ihn zu schreiben. Die Klaviermusik im Hintergrund ist improvisiert und soll die Inhalte des Gedichts unterstützen.
