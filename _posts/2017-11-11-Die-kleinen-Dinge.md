@@ -1,7 +1,7 @@
 ---
 priority: 0.6
 title: "Die kleinen Dinge"
-excerpt: Eine Videoarbeit
+excerpt: Woche 6
 categories: works
 background-image: works-sample.png
 tags:
@@ -11,6 +11,13 @@ tags:
 ---
 <span class="image featured"></span>
 <iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/I_YADYUTeaw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-Morbi a semper justo, non eleifend elit. Sed nulla nulla, porttitor nec volutpat eu, pulvinar vitae augue. Curabitur tempor quis lorem eget vestibulum. Aenean vel lacinia orci, ac sollicitudin felis. Nunc eros libero, posuere nec massa ac, consectetur sollicitudin elit. Duis tincidunt nunc et neque egestas rhoncus. Curabitur ut euismod lorem, ut rutrum neque. Nullam at sem eros. Nam interdum lectus non cursus viverra.
+WOCHE 6
 
-Duis eget magna at arcu tincidunt ultricies. Curabitur in facilisis sem, nec bibendum eros. Nunc fringilla imperdiet diam sed viverra. Vivamus lobortis dignissim mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet eu diam eu pellentesque. Duis tempus metus urna, vel faucibus ligula pharetra euismod. Donec rhoncus blandit posuere. Mauris mattis dolor est, dictum venenatis augue facilisis sit amet. Ut ante odio, congue eget arcu nec, semper eleifend urna. Donec rutrum pretium odio non pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam pellentesque nulla at tincidunt ultrices. Donec finibus malesuada magna. Phasellus eget tortor in lectus vehicula viverra sit amet sit amet purus.
+Die kleinen Dinge
+Morgen ist der 11. November - St. Martin.
+Als Kind habe ich mich immer sehr auf diesen Tag gefreut: mit der Laterne durch die Straßen ziehen und Lieder singen. Auch wenn es nur ein kleiner, lustiger Brauch war - für mich war es jedes Jahr etwas Besonderes.
+Doch worum geht es an diesem Tag eigentlich?
+Der Legende nach traf der Soldat Martin an einem Stadttor auf einen unbekleideten Bettler, der wegen der Kälte im Winter fror. Da Martin jedoch nichts weiter bei sich trug als seine eigene Kleidung und sein Pferd, teilte er mit seinem Schwert seinen Mantel und gab dem Bettler eine Hälfte davon.
+Diese Geschichte hat mich zum heutigen Video inspiriert. Es ist nur eine kleine Skizze und manches ist mir auch nicht so gut gelungen, aber mir geht es hier um die Botschaft: Wir sollten uns - nicht nur an diesem Tag - daran erinnern, wie gut es uns geht und auch überlegen, wie wir anderen Menschen helfen könnten. Dazu brauch es nicht unbedingt viel Geld oder große Geschenke - manchmal machen schon kleine Dinge einen Unterschied.
+
+Aufeinander acht geben, mit anderen teilen, sich Zeit nehmen - das ist es, was für mich dieser Tag bedeutet.
