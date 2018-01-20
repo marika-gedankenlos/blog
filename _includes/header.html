@@ -1,29 +1,26 @@
-<header id="header">
-				<h1 id="logo"><a href="/">Projekt Gedankenlos <span>von Marika</span></a></h1>
-				<nav id="nav">
-					<ul>
-						<li><a href="/">Startseite</a></li>
-                        <!--<li><a href="/blog.html">Blog</a></li>-->
-						<!--<li class="submenu">
-							<a href="">Layouts</a>
-							<ul>
-								<li><a href="/left-sidebar.html">Left Sidebar</a></li>
-								<li><a href="/right-sidebar.html">Right Sidebar</a></li>
-								<li><a href="/no-sidebar.html">No Sidebar</a></li>
-								<li><a href="/contact.html">Contact</a></li>
-								<li class="submenu">
-									<a href="">Submenu</a>
-									<ul>
-										<li><a href="#">Dolore Sed</a></li>
-										<li><a href="#">Consequat</a></li>
-										<li><a href="#">Lorem Magna</a></li>
-										<li><a href="#">Sed Magna</a></li>
-										<li><a href="#">Ipsum Nisl</a></li>
-									</ul>
-								</li>
-							</ul>
-						</li>
-						<li><a href="#" class="button special">Sign Up</a></li>-->
-					</ul>
-				</nav>
-			</header>
+<!-- Header -->
+<header id="header"{% if page.layout == 'landing' %} class="alt"{% endif %}>
+  <h1><a href="{{ site.baseurl }}/index.html">{{ site.title }}</a></h1>
+  <nav id="nav">
+    <ul>
+      <li class="special">
+        <a href="#menu" class="menuToggle"><span>Menu</span></a>
+        <div id="menu">
+          <ul>
+            <li><a href="{{ "/index.html" | prepend: site.baseurl }}">Home</a></li>{%
+            assign sorted_pages = site.pages | sort: 'key','last' %}{%
+            for my_page in sorted_pages %}{%
+              if my_page.title %}{%
+                unless my_page.options contains 'nomenu' %}
+            <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>{%
+                endunless %}{%
+              endif %}{%
+            endfor %}
+            <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}"
+                   class="icon fa-feed"> RSS Feed</a></li>
+          </ul>
+        </div>
+      </li>
+    </ul>
+  </nav>
+</header>
