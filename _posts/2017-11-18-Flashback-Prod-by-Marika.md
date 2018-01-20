@@ -1,7 +1,7 @@
 ---
 priority: 0.6
 title: "Flashback - Prod. by Marika"
-excerpt: Eine Videoarbeit
+excerpt: Woche 7
 categories: works
 background-image: works-sample.png
 tags:
@@ -10,6 +10,12 @@ tags:
 ---
 <span class="image featured"></span>
 <iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/bWMLpKFasnA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-Morbi a semper justo, non eleifend elit. Sed nulla nulla, porttitor nec volutpat eu, pulvinar vitae augue. Curabitur tempor quis lorem eget vestibulum. Aenean vel lacinia orci, ac sollicitudin felis. Nunc eros libero, posuere nec massa ac, consectetur sollicitudin elit. Duis tincidunt nunc et neque egestas rhoncus. Curabitur ut euismod lorem, ut rutrum neque. Nullam at sem eros. Nam interdum lectus non cursus viverra.
+WOCHE 7
 
-Duis eget magna at arcu tincidunt ultricies. Curabitur in facilisis sem, nec bibendum eros. Nunc fringilla imperdiet diam sed viverra. Vivamus lobortis dignissim mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi laoreet eu diam eu pellentesque. Duis tempus metus urna, vel faucibus ligula pharetra euismod. Donec rhoncus blandit posuere. Mauris mattis dolor est, dictum venenatis augue facilisis sit amet. Ut ante odio, congue eget arcu nec, semper eleifend urna. Donec rutrum pretium odio non pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam pellentesque nulla at tincidunt ultrices. Donec finibus malesuada magna. Phasellus eget tortor in lectus vehicula viverra sit amet sit amet purus.
+Mein Song zu Songs
+Diese Woche habe ich es endlich geschafft, einen Liedtext von mir zu vertonen und in diesem Video zu verarbeiten.
+Das war etwas aufwendiger, deshalb kommt das Video auch erst am Samstag und nicht wie sonst am Freitag.
+
+In dem Song geht es um Lieder, die für uns manchmal eine ganz besondere Bedeutung haben. Eine bestimmte Situation, ein bestimmtes Gefühl, eine bestimmte Person,... Ich sehe jedenfalls immer, wenn ich so ein Lied höre, vor meinem inneren Auge genau so eine Situation - ich habe einen Flashback.
+Ich finde das schon fast ein bisschen faszinierend, wie Musik auf diese Weise wirken kann.
+Kennt ihr das auch? Schreibt mir gerne eure Meinung dazu. Ich freu mich über euer Feedback! 
