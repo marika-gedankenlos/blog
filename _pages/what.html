@@ -9,57 +9,16 @@ background-image: PicsArt_09-28-11.18.07.jpg
 ---
 Alles begann mit diesem Video und der Frage: "Muss Kunst perfekt sein?"
 
-Ich hatte mich hinter meinen Zweifeln versteckt. 
-Ich hatte meinen Ängsten gehorcht, die mir sagten: "Andere könnten das, was du machst nicht gut (genug) finden." 
+Ich hatte mich hinter meinen Zweifeln versteckt.
+Ich hatte meinen Ängsten gehorcht, die mir sagten: "Andere könnten das, was du machst nicht gut (genug) finden."
 Ich hatte mir eingeredet: "Andere können das besser, wieso solltest du deine Kunst zeigen?"
 Ich hatte vergessen.
 
-Vergessen, was KUNST bedeutet: sich gegenseitig inspirieren, sich trauen zur Imperfektion, Persönlichkeit ausleben, bunt sein - oder grau, lachen, weinen, Gefühle, Durcheinander, Ordnung,... Kunst kennt keine Regeln. 
+Vergessen, was KUNST bedeutet: sich gegenseitig inspirieren, sich trauen zur Imperfektion, Persönlichkeit ausleben, bunt sein - oder grau, lachen, weinen, Gefühle, Durcheinander, Ordnung,... Kunst kennt keine Regeln.
 
 Deswegen will ich mir auch keine Regeln setzen in meiner Kunst: keine Zweifel, keine Ängste, keine negativen Gedanken.
-Ich will mich erinnern und die Kunst neu entdecken. 
-Und ich möchte jeden dazu inspirieren, es auch so zu machen. Denn wenn auch DU dich traust, wird die Welt ein bisschen bunter. 
+Ich will mich erinnern und die Kunst neu entdecken.
+Und ich möchte jeden dazu inspirieren, es auch so zu machen. Denn wenn auch DU dich traust, wird die Welt ein bisschen bunter.
 
 <span class="image featured"></span>
 <iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/EqpZGz4pJkA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
----
-{%  if site.posts %}{%
-      if site.tags.featured %}
-  <hr style="margin:0 0 1em 0;" />
-  <h4>Featured</h4>
-  <ul class="post-list">{%
-        for post in site.categories.topics %}{%
-          if post.tags contains "featured" %}
-      <li>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-          <div class="container">
-            <p class="post-title">{{ post.title }}</p>
-            <p class="post-date">{{ post.date | date: "%Y-%m-%d" }}</p>
-            <p class="post-desc">{{ post.excerpt | strip_html | truncatewords: 12 }}</p>
-          </div>
-        </a>
-      </li>{%
-          endif %}{%
-        endfor %}
-  </ul>{%
-      endif %}
-  <hr style="margin:1em 0 1em 0;" />
-
-    <ul style="list-style-type: none;">{%
-      assign p = '9999'
-%}{%  for post in site.categories.topics
-%}{%    assign n = post.date | date: "%Y"
-%}{%    if n != p
-%}{%      assign p = n
-%}
-      <br /><h5>{{ n }}</h5>{%
-        endif %}
-      <li style="padding-bottom: 6px;"><code>[{{ post.date | date: "%d %b" }}]</code>&nbsp;
-        <a href="{{ post.url | prepend: site.baseurl }}" style="white-space: nowrap;"><b>{{ post.title }}</b></a>&nbsp;
-          {{ post.excerpt | strip_html | truncatewords: 12 }}</li>{%
-      endfor
-%}
-    </ul>
-
-{%  endif %}
