@@ -22,4 +22,5 @@ Und so banal und platt dieser Satz auch für manchen klingen mag - für mich lä
 
 Sagt mir gerne eure Meinung zu dem Thema, ich bin gespannt, was ihr davon haltet.
 
-[Hier|https://www.youtube.com/watch?v=9StNQN6XUyU] geht's zum Originalvideo von Adesse
+
+<a href="https://www.youtube.com/watch?v=9StNQN6XUyU">Hier</a> geht's zum Originalvideo von Adesse
