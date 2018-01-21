@@ -76,6 +76,27 @@ endif
 	.span_2_of_2, .span_1_of_2 { width: 100%; }
 }
 </style>
+{% if site.categories.works %}
+  <div>
+      {% include fn_groupsort_reverse.html unsorted=site.categories.works groupby='priority' sortby='date' %}
+        {% for work in sorted_list %}
+          <div class="section group">
+          	<div class="col span_1_of_2">
+          	   Image Test
+          	</div>
+          	<div class="col span_1_of_2">
+          	   <b><a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a></b>
+          	</div>
+          </div>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  {% if site.works_in_progress %}
+    <div class="works_inprogress">Im Laufe des Projektes findet Ihr hier mehr.</div>
+  {% endif %}
+{% endif %}
+
 <div class="section group">
 	<div class="col span_1_of_2">
 	This is column 1
