@@ -82,7 +82,7 @@ endif
         {% for work in sorted_list %}
           <div class="section group">
           	<div class="col span_1_of_2">
-          	   <img src="/images/{{ work.background-image }}" alt="Bild" />
+          	   <img style="height:100px;" src="/images/{{ work.background-image }}" alt="Bild" />
           	</div>
           	<div class="col span_1_of_2">
           	   <b><a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a></b>
