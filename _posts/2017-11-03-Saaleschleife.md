@@ -3,7 +3,7 @@ priority: 0.6
 title: "Saaleschleife"
 excerpt: Woche 4
 categories: works
-background-image: works-sample.png
+background-image:
 youtube-id: "rdX2WcNpcjE"
 tags:
   - Fotos
