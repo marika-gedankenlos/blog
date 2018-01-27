@@ -3,7 +3,7 @@ priority: 0.6
 title: "Dusk Till Dawn - Zayn ft. Sia | Cover by Marika"
 excerpt: Woche 4
 categories: works
-background-image: works-sample.png
+background-image:
 youtube-id: "7NP71F8xEzk"
 tags:
   - YouTube
