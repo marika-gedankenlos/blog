@@ -3,7 +3,7 @@ priority: 0.6
 title: "Muss Kunst perfekt sein? - Projekt Gedankenlos"
 excerpt: Start
 categories: works
-background-image: works-sample.png
+background-image:
 youtube-id: "EqpZGz4pJkA"
 tags:
   - YouTube
