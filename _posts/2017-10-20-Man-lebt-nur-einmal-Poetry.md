@@ -4,6 +4,7 @@ title: "- Man lebt nur einmal - | Poetry | throwback to 2015"
 excerpt: Woche 3
 categories: works
 background-image: works-sample.png
+youtube-id: "rdX2WcNpcjE"
 tags:
   - YouTube
   - Kunst
