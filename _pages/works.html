@@ -20,6 +20,7 @@ background-image: IMG-20160721-WA0014.jpg
         {% endif %}
       {% include fn_groupsort_reverse.html unsorted=site.categories.works groupby='priority' sortby='date' %}
         {% for work in sorted_list %}
+	  <p />
 	  <section class="spotlight">
               <div class="image">
                 <a href="{{ work.url | prepend: site.baseurl }}">
