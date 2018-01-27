@@ -3,7 +3,7 @@ priority: 0.6
 title: "- Alle deine Farben - | Poetry"
 excerpt: Woche 2
 categories: works
-background-image: works-sample.png
+background-image:
 youtube-id: "Zf10KaGEv7w"
 tags:
   - YouTube
