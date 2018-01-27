@@ -3,7 +3,7 @@ priority: 0.6
 title: "Männer weinen nicht"
 excerpt: Woche 9
 categories: works
-background-image: works-sample.png
+background-image:
 youtube-id: "ShDjCc1N1fA"
 tags:
   - YouTube
