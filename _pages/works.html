@@ -80,24 +80,24 @@ endif
   <div>
       {% include fn_groupsort_reverse.html unsorted=site.categories.works groupby='priority' sortby='date' %}
         {% for work in sorted_list %}
-          <div class="section group">
+          <!--<div class="section group">
           	<div class="col span_1_of_2">
           	   <img style="height:100px;" src="/images/{{ work.background-image }}" alt="Bild" />
           	</div>
           	<div class="col span_1_of_2">
           	   <b><a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a></b>
           	</div>
-          </div>
+          </div>-->
 	  <section class="spotlight">
               <div class="image">
-                <a href="/what/">
-                <img src="/images/PicsArt_09-28-11.18.07.jpg" alt="">
+                <a href="{{ work.url | prepend: site.baseurl }}">
+                    <img src="/images/{{ work.background-image }}" alt="Picture">
                 </a>
               </div>
               <div class="content">
-                <a href="/what/">
-                <h2>Worum geht's?</h2>
-                <p>Wie alles begann…</p>
+                <a href="{{ work.url | prepend: site.baseurl }}">
+                <h2>{{ work.title }}</h2>
+                    <!--<p>Wie alles begann…</p>-->
                 </a>
               </div>
             </section>
