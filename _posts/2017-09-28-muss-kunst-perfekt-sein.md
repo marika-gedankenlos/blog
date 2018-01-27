@@ -4,6 +4,7 @@ title: "Muss Kunst perfekt sein? - Projekt Gedankenlos"
 excerpt: Start
 categories: works
 background-image: works-sample.png
+youtube-id: "EqpZGz4pJkA"
 tags:
   - YouTube
   - Kunst
