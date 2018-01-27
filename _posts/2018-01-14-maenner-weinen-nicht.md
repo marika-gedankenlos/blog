@@ -11,7 +11,9 @@ tags:
   - Männer
 ---
 <span class="image featured"></span>
+<div class="videoWrapper">
 <iframe width="100%" height="500px" src="https://www.youtube-nocookie.com/embed/ShDjCc1N1fA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 WOCHE 9
 
 Männer weinen nicht
