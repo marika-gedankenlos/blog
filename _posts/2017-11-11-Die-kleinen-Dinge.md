@@ -3,7 +3,7 @@ priority: 0.6
 title: "Die kleinen Dinge"
 excerpt: Woche 6
 categories: works
-background-image: works-sample.png
+background-image:
 youtube-id: "I_YADYUTeaw"
 tags:
   - YouTube
